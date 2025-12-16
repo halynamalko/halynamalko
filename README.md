@@ -1,4 +1,4 @@
-[![Header](assets/Halyna Malko.jpg)](linkedin.com/in/halyna-malko-8060383a1)
+![Header](assets/Halyna Malko.jpg)
 
 About me
 

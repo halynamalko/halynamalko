@@ -1,4 +1,4 @@
-![Header](assets/HalynaMalko.jpg)
+![Header](assets/HalynaMalko.png)
 
 ### About Me
 I am a Junior QA Engineer, combining strong attention to detail with a deep focus on user experience. I am currently completing the Software Testing course at EPAM, where I am enhancing my knowledge in all aspects of quality assurance and seeking opportunities to apply this expertise to real-world tasks.
@@ -7,6 +7,9 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 * **Instructional Designer:** Created over 200 comprehensive math lesson packages.
 * **Achievements:** This background proves my high level of responsibility, excellent time management, and ability to successfully complete projects within defined deadlines.
 * **Main Focus:** Transitioning into QA, I leverage my skills to view the product through the user’s eyes and systematically approach problem detection and resolution.
+
+My CV
+Link to my CV
 
 ### Languages and Tools 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,6 +26,10 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 ![DevTools](https://img.shields.io/badge/Developer%20Tools-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 Testing Documentation
+Checklist
+Test Design Techniques 
+Bug-Reports
+
 
 ### Follow Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galamalko4@gmail.com)

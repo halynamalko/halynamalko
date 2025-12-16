@@ -1,10 +1,10 @@
 ![Header](assets/HalynaMalko.jpg)
 
-### 💻 About Me
-I am an aspiring QA Engineer, combining strong attention to detail with a deep focus on user experience. I am currently completing the Software Testing course at EPAM, where I am enhancing my knowledge in all aspects of quality assurance and seeking opportunities to apply this expertise to real-world tasks.
-**My Key Experience:**
+### About Me
+I am a junior QA Engineer, combining strong attention to detail with a deep focus on user experience. I am currently completing the Software Testing course at EPAM, where I am enhancing my knowledge in all aspects of quality assurance and seeking opportunities to apply this expertise to real-world tasks.
+* **My Key Experience:**
 * **Instructional Designer:** Created over 200 comprehensive math lesson packages.
-* **Achievements:** This background proves my high level of responsibility, excellent time management, and ability to successfully complete large-scale projects within defined deadlines.
+* **Achievements:** This background proves my high level of responsibility, excellent time management, and ability to successfully complete projects within defined deadlines.
 * **Main Focus:** Transitioning into QA, I leverage my skills to view the product through the user’s eyes and systematically approach problem detection and resolution.
 
 ### Languages and Tools 

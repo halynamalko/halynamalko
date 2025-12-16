@@ -2,7 +2,19 @@
 
 About me
 
-Languages and Tools
+### Languages and Tools 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-9E9E9E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTU1IDIzNiIgYmFzZVByb2Y9ImZ1bGwiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iIzAwMzMiIGQ9Ik03Ny41IDc3LjVsLTQ1LjUgNjcuNUw3Ny41IDIxMi41bDExNS0xMjguNWgtMTg5eiIvPjwvc3ZnPg%3D%3D&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-00B32E?style=for-the-badge&logo=testrail&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
+![DevTools](https://img.shields.io/badge/Developer%20Tools-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 Testing Documentation
 

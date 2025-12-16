@@ -1,4 +1,4 @@
-![Header](assets/Halyna Malko.jpg)
+![Header](assets/HalynaMalko.jpg)
 
 About me
 

@@ -8,8 +8,9 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 * **Achievements:** This background proves my high level of responsibility, excellent time management, and ability to successfully complete projects within defined deadlines.
 * **Main Focus:** Transitioning into QA, I leverage my skills to view the product through the user’s eyes and systematically approach problem detection and resolution.
 
-My CV
-Link to my CV
+### My CV
+
+**Link to my CV (assets/Malko_Halyna_Trainee_QA_CV.pdf)** 
 
 ### Languages and Tools 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

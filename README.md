@@ -10,7 +10,7 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 
 ### My CV
 
-**Link to my CV (assets/Malko_Halyna_Trainee_QA_CV.pdf)** 
+![Link to my CV](assets/Malko_Halyna_Trainee_QA_CV.pdf) 
 
 ### Languages and Tools 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,8 +27,11 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 ![DevTools](https://img.shields.io/badge/Developer%20Tools-4A4A4A?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 Testing Documentation
-Checklist
+
+![Checklist](assets/Checklist.csv)
+
 Test Design Techniques 
+
 Bug-Reports
 
 

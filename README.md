@@ -46,10 +46,6 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 
 [MySQL](assets/SQL.sql)
 
-[Postman]()
-
-[Selenium]()
-
 ### Follow Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galamalko4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halyna-malko-8060383a1)

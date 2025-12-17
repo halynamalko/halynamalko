@@ -1,0 +1,21 @@
+Bug-reports,,,
+ID,BR562891,BR562892,BR562893
+Summary,The page language on the Login and Registration pages does not change,There is no error message in the Price filter of any product category when the filter is applied from highest price to lowest price,The email field in the feedback background on the contacts page is not validated when the user enters an email with Cyrillic characters
+Pre-conditions,Open the website https://exe.ua/ ,Open the website https://exe.ua/ ,Open the website https://exe.ua/ 
+,User must not be logged in,,
+Steps,"1. Click on the ""Login"" button","1. Click the ""Catalog"" button","1. Click on the ""Contacts"" button"
+,"2. Click on the ""Ukr"" button in the upper right part of the page",2. Select the category PC Components - Video Cards,2. Enter a valid name Halyna in the Feedback Form
+,"3. Click on the ""Eng"" button in the upper right part of the page","3. In the Price ""from"" field, enter 4000",3. Enter an invalid email in the Feedback Form - galina@gmail.com
+,"4. Click on the ""Registration"" button","4. In the Price ""to"" field, enter 20",4. Enter a valid phone number in the Feedback Form - +380635727048
+,"5. Click on the ""Ukr"" button in the upper right part of the page","5. Press ""Enter""",5. Enter feedback text - Test
+,"6. Click on the ""Eng"" button in the upper right part of the page",,6. Enter the captcha shown below
+,,,"7. Click the ""Send"" button"
+,,,
+Expected result,The page must be translated into Ukrainian.,"The filter should not be applied. The ""to"" field should be highlighted in red.",A field should appear stating that the email is not valid.
+Actual result,Changing localization doesn't work,Filter applied. No error messages,"The message ""Thank you for contacting our support!"""
+Post-condition,,,
+Environment,"Version 135.0.7049.84 (Official Build) (64-bit), all browsers","Version 135.0.7049.84 (Official Build) (64-bit), all browsers","Version 135.0.7049.84 (Official Build) (64-bit), all browsers"
+Severity,low,low,low
+Priority,low,low,low
+Type of bug,Localization,Functional / Logical,Functional
+Attachment,,,

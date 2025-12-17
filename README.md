@@ -30,11 +30,15 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 
 [Checklist](assets/Checklist.pdf)
 
+[TestRail](assets/TestCases_TestRail.pdf)
+
 [Test Design Techniques](assets/Test_Design_Techniques.csv) 
+
 [Use case diagram](assets/Use_case_diagram.drawio.png)
+
 [State transition diagram](assets/State_transition_diagram.drawio.png)
 
-[Bug-Reports]()
+[Bug Reports](assets/Bug-Reports.csv)
 
 [JSON]()
 

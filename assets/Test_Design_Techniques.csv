@@ -1,0 +1,70 @@
+Equivalent partitioning,,,,
+"Enter ""Kobzar"" in the book search field",,,,
+"Enter the name of the book with the error ""Krbzar"" in the search field",,,,
+Register by entering a 6-character password,Name: Galina; Last name: Malko; Mobile: +380638515140; Email: malkohalyna@gmail.com; Password: Ab1234,,,
+Register by entering an 8-character password,Name: Galina; Last name: Malko; Mobile: +380638515140; Email: malkohalyna@gmail.com; Password: Ab123456,,,
+Boundary Values,,,,
+"Change phone number, enter 13-character number (with country code)",Phone number: +380638515145,,,
+"Change phone number, enter 12-character number (with country code)",Phone number: +38063851514,,,
+"Change phone number, enter 14-character number (with country code)",Phone number: +3806385151401,,,
+Decision table,,,,
+"Place an order when the user has entered their first name, last name, phone number, email",First name: Galina; Last name: Malko; Mobile: +380638515140; Email: malkohalyna@gmail.com;,,,
+"Place an order when the user has NOT entered a name, surname, phone number, email",,,,
+"Place an order when the user has entered a first name and has NOT entered a last name, phone number, or email",Name: Galina;,,,
+"Place an order when the user has NOT entered a first name and has entered a last name, phone number, email",Last name: Malko; Mobile: +380638515140; Email: malkohalyna@gmail.com;,,,
+Pairwise testing,,,,
+"Check book filtering by type, availability, publisher, and language","Type - paper, availability - goods in stock, publisher - Kritika, language - Ukrainian",,,
+"Check book filtering by type, availability, publisher, and language","Type - paper, availability - ready to ship, publisher - Folio, language - English",,,
+"Check book filtering by type, availability, publisher, and language","Type - paper, availability - goods in stock, publisher - Educational book - Bogdan, language - German",,,
+"Check book filtering by type, availability, publisher, and language","Type - paper, availability - ready for printing, publisher - Lira-K, language - Chinese",,,
+,Type of books,Availability,Publishing house,Language
+1,Paper,Products in stock,Criticism,Ukrainian
+2,Paper,Ready to ship,Folio,English
+3,Paper,Products in stock,Textbook - Bogdan,German
+4,Paper,Ready to ship,Lyra-K,Chinese
+5,Paper,Products in stock,Andronum,Polish Romanian
+6,Paper,Ready to ship,Reference,For the visually impaired
+7,Paper,Ready to ship,Textbook - Bogdan,Chinese
+8,Paper,Products in stock,Lyra-K,Polish
+9,Paper,Ready to ship,Andronum,For the visually impaired
+10,Paper,Products in stock,Reference,Ukrainian
+11,Paper,Ready to ship,Criticism,English
+12,Paper,Products in stock,Folio,German
+13,Paper,Products in stock,Andronum,Ukrainian
+14,Paper,Ready to ship,Reference,English
+15,Paper,Products in stock,Criticism,German
+16,Paper,Ready to ship,Folio,Chinese
+17,Paper,Products in stock,Textbook - Bogdan,Polish
+18,Paper,Ready to ship,Lyra-K,For the visually impaired
+19,Paper,Ready to ship,Criticism,Chinese
+20,Paper,Products in stock,Folio,Polish
+21,Paper,Ready to ship,Textbook - Bogdan,For the visually impaired
+22,Paper,Products in stock,Lyra-K,Ukrainian
+23,Paper,Ready to ship,Andronum,English
+24,Paper,Products in stock,Benchmark,German
+25,Paper,Products in stock,Textbook - Bogdan,Ukrainian
+26,Paper,Ready to ship,Lyra-K,English
+27,Paper,Products in stock,Andronum,German
+28,Paper,Ready to ship,Benchmark,Chinese
+29,Paper,Products in stock,Criticism,Polish
+30,Paper,Ready to ship,Folio,For the visually impaired
+31,Paper,Ready to ship,Andronum,Chinese
+32,Paper,Products in stock,Benchmark,Polish
+33,Paper,Ready to ship,Criticism,For the visually impaired
+34,Paper,Products in stock,Folio,Ukrainian
+35,Paper,Ready to ship,Textbook - Bogdan,English
+36,Paper,Products in stock,Lyra-K,German
+State transition diagram,,,,
+Search for a product,Product name - Fourth wing,,,
+Add the book to your cart if it is available.,,,,
+Add the book to your cart if it is NOT in stock,,,,
+Check that the book has been added to your cart,,,,
+"Place an order by filling in all fields and selecting ""Cash on delivery"" as payment method.",,,,
+Use case diagram ,,,,
+Check that an unregistered user cannot write a review for a book,,,,
+Check that an unregistered user cannot add a book to favorites,,,,
+Check that the seller cannot place the order,,,,
+Verify that the buyer cannot change the availability of the book,,,,
+Experience-based techniques (Error guessing),,,,
+"In the product filter by price, enter a higher price in the ""from"" field and a lower price in the ""to"" field",,,,
+Enter a non-existent book title,,,,

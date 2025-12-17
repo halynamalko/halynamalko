@@ -40,9 +40,9 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 
 [Bug Reports](assets/Bug-Reports.csv)
 
-[JSON]()
+[JSON](assets/JSON.png)
 
-[XML]()
+[XML](assets/XML.png)
 
 [MySQL]()
 

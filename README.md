@@ -44,7 +44,7 @@ I am a Junior QA Engineer, combining strong attention to detail with a deep focu
 
 [XML](assets/XML.png)
 
-[MySQL]()
+[MySQL](assets/SQL.sql)
 
 [Postman]()
 

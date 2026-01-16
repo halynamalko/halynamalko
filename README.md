@@ -1,12 +1,9 @@
 ![Header](assets/HalynaMalko.png)
 
 ### About Me
-I am a Junior QA Engineer, combining strong attention to detail with a deep focus on user experience. I am currently completing the Software Testing course at EPAM, where I am enhancing my knowledge in all aspects of quality assurance and seeking opportunities to apply this expertise to real-world tasks.
+I am a Junior QA Engineer with a solid theoretical foundation and a strong analytical mindset. I have completed the Software Testing course at EPAM Campus, where I mastered the full STLC cycle, test design techniques, and the creation of professional documentation (test plans, cases, checklists, and bug reports).
 
-**My Key Experience:**
-* **Instructional Designer:** Created over 200 comprehensive math lesson packages.
-* **Achievements:** This background proves my high level of responsibility, excellent time management, and ability to successfully complete projects within defined deadlines.
-* **Main Focus:** Transitioning into QA, I leverage my skills to view the product through the user’s eyes and systematically approach problem detection and resolution.
+I have a deep understanding of various testing types and can effectively analyze requirements for gaps to ensure full test coverage. My professional background includes delivering 300+ complex interactive learning packages, where I was responsible for quality, logic verification, and meeting strict deadlines. I combine technical precision with a deep focus on user experience, and I am eager to contribute to product quality within an team.
 
 ### My CV
 

@@ -1,13 +1,13 @@
 ![Header](assets/HalynaMalko.png)
 
 ### About Me
-I am a Junior QA Engineer with a solid theoretical foundation and a strong analytical mindset. I have completed the Software Testing course at EPAM Campus, where I mastered the full STLC cycle, test design techniques, and the creation of professional documentation (test plans, cases, checklists, and bug reports).
+I am a Junior QA Engineer. I possess solid theoretical knowledge and practical skills in using various testing tools, gained through completing the Software Testing course at EPAM Campus. I have a deep understanding of SDLC and STLC processes, and I am proficient in creating high-quality test documentation, including bug reports, test cases, and checklists. Skilled in applying various test design techniques to ensure maximum test coverage.
 
-I have a deep understanding of various testing types and can effectively analyze requirements for gaps to ensure full test coverage. My professional background includes delivering 300+ complex interactive learning packages, where I was responsible for quality, logic verification, and meeting strict deadlines. I combine technical precision with a deep focus on user experience, and I am eager to contribute to product quality within an team.
+My professional background includes delivering 300+ complex interactive learning packages, where I was responsible for quality, logic verification, and meeting strict deadlines. I combine technical precision with a deep focus on user experience, and I am eager to contribute to product quality within a team.
 
 ### My CV
 
-[Link to my CV](assets/Malko_Halyna_Trainee_QA_CV.pdf) 
+[Link to my CV](assets/Malko_Halyna_Junior_QA_CV.pdf) 
 
 ### Languages and Tools 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
